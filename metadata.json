@@ -1,0 +1,6 @@
+{
+  "name": "Graph Theory Study Guide",
+  "description": "An interactive study companion and textbook-quality PDF publisher for Discrete Mathematics Graph Theory notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
